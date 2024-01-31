@@ -1,0 +1,18 @@
+OU=Domain Controllers,DC=psudev,DC=local
+OU=Servers,DC=psudev,DC=local
+OU=Linux,OU=Servers,DC=psudev,DC=local
+OU=Build,OU=Servers,DC=psudev,DC=local
+OU=Endpoints,DC=psudev,DC=local
+OU=Secured,DC=psudev,DC=local
+OU=SecuredAccounts,OU=Secured,DC=psudev,DC=local
+OU=SecuredGroups,OU=Secured,DC=psudev,DC=local
+OU=ServiceAccounts,DC=psudev,DC=local
+OU=Test,OU=Endpoints,DC=psudev,DC=local
+OU=Users,DC=psudev,DC=local
+OU=IT,OU=Users,DC=psudev,DC=local
+OU=HR,OU=Users,DC=psudev,DC=local
+OU=Finance,OU=Users,DC=psudev,DC=local
+OU=Marketing,OU=Users,DC=psudev,DC=local
+OU=Engineering,OU=Users,DC=psudev,DC=local
+OU=DisabledAccounts,DC=psudev,DC=local
+OU=Groups,DC=psudev,DC=local
